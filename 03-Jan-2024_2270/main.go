@@ -5,6 +5,9 @@ func main() {
 	println(answer)
 }
 
+//specify the problem statement in comments below
+// Given an array nums of n integers, find the number of ways to split the array into three non-empty subarrays (left, mid, right) such that:
+
 func waysToSplitArray(nums []int) int {
 	count := 0
 	totalSum := sumOfArray(nums)
