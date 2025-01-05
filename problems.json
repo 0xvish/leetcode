@@ -4,11 +4,19 @@
     "folder": "01-Jan-2024_1422"
   },
   "02-Jan-2024": {
-    "name": "2270. Number of Ways to Split Array",
-    "folder": "02-Jan-2024_2270"
+    "name": "2559. Count Vowel Strings in Ranges",
+    "folder": "02-Jan-2024_2559"
   },
   "03-Jan-2024": {
     "name": "2270. Number of Ways to Split Array",
     "folder": "03-Jan-2024_2270"
+  },
+  "04-Jan-2025": {
+    "name": "1930. Unique Length-3 Palindromic Subsequences",
+    "folder": "04-Jan-2025_1930"
+  },
+  "05-Jan-2025": {
+    "name": "2381. Shifting Letters II",
+    "folder": "05-Jan-2025_2381"
   }
 }
