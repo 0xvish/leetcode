@@ -34,5 +34,9 @@
   "09-Jan-2025": {
     "name": "2185. Counting Words With a Given Prefix",
     "folder": "09-Jan-2025_2185"
+  },
+  "10-Jan-2025": {
+    "name": "916. Word Subsets",
+    "folder": "10-Jan-2025_916"
   }
 }
