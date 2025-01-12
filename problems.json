@@ -42,5 +42,9 @@
   "11-Jan-2025": {
     "name": "1400. Construct K Palindrome Strings",
     "folder": "11-Jan-2025_1400"
+  },
+  "12-Jan-2025": {
+    "name": "2116. Check if a Parentheses String Can Be Valid",
+    "folder": "12-Jan-2025_2116"
   }
 }
