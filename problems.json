@@ -46,5 +46,13 @@
   "12-Jan-2025": {
     "name": "2116. Check if a Parentheses String Can Be Valid",
     "folder": "12-Jan-2025_2116"
+  },
+  "14-Jan-2025": {
+    "name": "2657. Find the Prefix Common Array of Two Arrays",
+    "folder": "14-Jan-2025_2657"
+  },
+  "13-Jan-2025": {
+    "name": "3223. Minimum Length of String After Operations",
+    "folder": "13-Jan-2025_3223"
   }
 }
