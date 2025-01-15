@@ -54,5 +54,9 @@
   "13-Jan-2025": {
     "name": "3223. Minimum Length of String After Operations",
     "folder": "13-Jan-2025_3223"
+  },
+  "15-Jan-2025": {
+    "name": "2429. Minimize XOR",
+    "folder": "15-Jan-2025_2429"
   }
 }
