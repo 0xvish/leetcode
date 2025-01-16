@@ -58,5 +58,9 @@
   "15-Jan-2025": {
     "name": "2429. Minimize XOR",
     "folder": "15-Jan-2025_2429"
+  },
+  "16-Jan-2025": {
+    "name": "2425. Bitwise XOR of All Pairings",
+    "folder": "16-Jan-2025_2425"
   }
 }
