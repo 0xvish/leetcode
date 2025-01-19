@@ -66,5 +66,9 @@
   "19-Jan-2025": {
     "name": "407. Trapping Rain Water II",
     "folder": "19-Jan-2025_407"
+  },
+  "17-Jan-2025": {
+    "name": "2683. Neighboring Bitwise XOR",
+    "folder": "17-Jan-2025_2683"
   }
 }
