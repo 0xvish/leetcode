@@ -62,5 +62,9 @@
   "16-Jan-2025": {
     "name": "2425. Bitwise XOR of All Pairings",
     "folder": "16-Jan-2025_2425"
+  },
+  "19-Jan-2025": {
+    "name": "407. Trapping Rain Water II",
+    "folder": "19-Jan-2025_407"
   }
 }
