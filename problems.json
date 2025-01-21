@@ -70,5 +70,13 @@
   "17-Jan-2025": {
     "name": "2683. Neighboring Bitwise XOR",
     "folder": "17-Jan-2025_2683"
+  },
+  "20-Jan-2025": {
+    "name": "2661. First Completely Painted Row or Column",
+    "folder": "20-Jan-2025_2661"
+  },
+  "21-Jan-2025": {
+    "name": "2017. Grid Game",
+    "folder": "21-Jan-2025_2017"
   }
 }
